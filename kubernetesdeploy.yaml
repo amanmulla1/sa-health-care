@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: healthapp-eta-container
-        image: loksaieta/bankapp-eta-app
+        image: aman124/healthapp-eta-app
         ports:
         - containerPort: 8082
 ---
